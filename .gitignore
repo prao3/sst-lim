@@ -1,2 +1,6 @@
 # Data folder
 /data
+
+# Jupyter stuff
+.DS_Store
+/.ipynb_checkpoints
